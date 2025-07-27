@@ -1,0 +1,2 @@
+# shadowsocks
+proxy shadowsoks
